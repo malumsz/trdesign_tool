@@ -13,10 +13,10 @@
     Uma Proposta de um Repositório Digital para <b>Transparência de Dados Pessoais</b>. Desenvolvida como parte de um projeto de Iniciação Científica.
     <br/>
     <br/>
-    Desenvolvido com <b>PHP, CSS, HTML, Blade, JavaScript, Laravel, PostgreSQL</b>.
+    Desenvolvido com <b>PHP, CSS, HTML, Blade, JavaScript, Laravel, PostgreSQL e Bootstrap</b>.
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,css,html,js,laravel,postgres&theme=light&perline=11" />
+        <img src="https://skillicons.dev/icons?i=php,css,html,js,laravel,postgres,bootstrap&theme=light&perline=11" />
       </a>
     </p>
     
